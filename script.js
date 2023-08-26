@@ -119,6 +119,13 @@ gsap.from('.techs', {
         toggleActions: 'play none none reverse',
     }
 },'jeo')
+gsap.from('.page3 h1',{
+    x:-100,
+    scrollTrigger:{
+        trigger:'.page3',
+        toggleActions: 'play none none reverse',
+    }
+})
 /*gsap.registerPlugin(ScrollTrigger)
 ScrollTrigger.create({
     trigger:".page6",
