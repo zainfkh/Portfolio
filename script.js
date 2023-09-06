@@ -67,8 +67,11 @@ gsap.fromTo('.page6 h1',{
     }
 })
 
-gsap.to('.page3 img, .page3 p', {
+gsap.fromTo('.page3 img, .page3 p',{
+ x:-100,
+}, {
     opacity: 1,
+    x:0,
     scrollTrigger: {
         trigger: '.page3',
         pin: true,
