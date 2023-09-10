@@ -376,27 +376,27 @@ font-size: 1vw;
     
     }
     .page1 h1:nth-child(2){
-        margin-top: 11.5%;
+        margin-top: 26%;
     
     }
     .page3 p {
         width: 30ch;
-        font-size: 2.5vw;
+        font-size: 2.8vw;
     }
     .nav1{
         font-stretch: 200%;
-        font-size: 4vw;
+        font-size: 5vw;
         color: white;
     }
     .nav2{
-        font-size: 2.1vw;
+        font-size: 2.4vw;
     }
     .page3 img{
-        margin-top: 5%;
+        margin-top: 10%;
         margin-right: 4%;
         border-radius: 10px;
-        max-height: 28%;
-        opacity: 0;
+        max-height: 55%;
+      
     }
     .page3 h1{
         font-size: 3.5vw;
@@ -407,9 +407,16 @@ font-size: 1vw;
     }
     .page3{
        border-top: 1px solid rgb(170, 170, 170);
-      
+       height: 65vh;
        border-radius: 0px;
-        
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+    }
+    .pg-3{
+        width: 55%;
+        margin-left: 0%;
+        padding-top: 5%;
     }
     #page4{
         height: 80vh;
@@ -417,6 +424,7 @@ font-size: 1vw;
     .work__title{
         font-size: 5vw;
         letter-spacing: -2px;
+        margin-top: 15%;
     }
     .elem{
         padding: 6vw 3vw;
@@ -444,13 +452,20 @@ font-size: 1vw;
         height: 50vh;
     }
     .right .mailfoot{
-        font-size: 2vw;
+        font-size: 2.1vw;
     }
     .social a{
-        font-size: 1.7vw;
+        font-size: 1.9vw;
+    }
+    footer{
+        height: 57vh;
+    }
+    .left img{
+        width: 33%;
     }
     .footer2 p{
-        font-size: 1.5vw;
+        font-size: 1.8vw;
+        top: 7%;
     } 
     .footer1{
         height: 20vh;
