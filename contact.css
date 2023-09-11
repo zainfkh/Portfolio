@@ -186,6 +186,12 @@ header {
   text-align: center;
   background-color: white;
 }
+.nav2{
+  font-size: 2.4vw;
+}
+.nav1 h2{
+  font-size: 5vw;
+}
 
 .mid-txt {
   font-size: 3rem;
@@ -209,7 +215,7 @@ header {
 /* Page 2 Styles */
 .page2 {
   text-align: center;
-  padding: 30px;
+  padding: 0px;
   height: 100vh;
 }
 
@@ -218,7 +224,7 @@ header {
 
 }
 .socials{
-  margin-top: 35%;
+  margin-top: 50%;
 }
 
 .insta, .face, .din {
