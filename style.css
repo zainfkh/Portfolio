@@ -167,7 +167,7 @@ hr{
     margin-bottom: 15%;
 }
 #page4{
-    height: 180vh;
+    height: 190vh;
     width: 100%;
     overflow: hidden;
     font-family: 'Roboto', sans-serif;
@@ -211,7 +211,7 @@ hr{
 }
 
 .elem img{
-    height: 120%;
+    height: 160%;
     position: absolute;
     z-index: 999;
     opacity: 0;
@@ -422,7 +422,7 @@ font-size: 1vw;
         padding-top: 5%;
     }
     #page4{
-        height: 80vh;
+        height: 100vh;
     }
     .work__title{
         font-size: 6vw;
