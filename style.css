@@ -167,7 +167,7 @@ hr{
     margin-bottom: 15%;
 }
 #page4{
-    height: 190vh;
+    height: 210vh;
     width: 100%;
     overflow: hidden;
     font-family: 'Roboto', sans-serif;
@@ -422,7 +422,7 @@ font-size: 1vw;
         padding-top: 5%;
     }
     #page4{
-        height: 100vh;
+        height: 110vh;
     }
     .work__title{
         font-size: 6vw;
